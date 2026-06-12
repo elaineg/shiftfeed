@@ -95,4 +95,4 @@ seconds.
   subscribed).
 - Pay-period, overtime, or pay annotations.
 
-Production URL: <filled in by deployer>
+Production URL: https://shiftfeed.vercel.app
